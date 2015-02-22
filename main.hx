@@ -1,9 +1,15 @@
-package;
+ackage;
 
 class Main 
 {	
-	public static function main() {
-		trace ("Helloy world");
+
+	function new()
+	{
+		trace("Hello world");
+	}
+	
+	public static function main() {		
+		new Main();
 		
 	}
 }
