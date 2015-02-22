@@ -1,4 +1,4 @@
-ackage;
+package;
 
 class Main 
 {	
