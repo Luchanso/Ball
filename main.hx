@@ -2,8 +2,12 @@ package;
 
 class Main 
 {	
-	public static function main() {
-		trase ("Helliy world");
+	function new()
+	{
+		trace("Hello world");
+	}
+	
+	public static function main() {		
 		
 	}
 }
